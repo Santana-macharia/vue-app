@@ -1,6 +1,4 @@
-# bakery
 
-> A project for managing a bakery
 
 ## Build Setup
 
